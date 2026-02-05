@@ -6,6 +6,7 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import data from "./data.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -25,6 +26,7 @@ import zidio from "./company/zidio.png";
 import parth from "./company/parth.png";
 import redstar from "./company/redstar.jpg";
 import united from "./ul.png";
+import rozana from "./company/rozana.jpg";
 
 import satu from "./satendra.jpg";
 
@@ -64,4 +66,6 @@ export {
   redstar,
   zidio,
   united,
+  rozana,
+  data,
 };
