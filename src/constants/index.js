@@ -155,19 +155,6 @@ const experiences = [
       "Monitoring performance metrics and providing regular feedback to drive individual and team success.",
     ],
   },
-  {
-    title: "Web Developer",
-    company_name: "Redstar Infosys",
-    icon: redstar,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "Developing and maintaining web applications using HTML 5, Bootstrap and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
 ];
 
 const testimonials = [
@@ -182,44 +169,6 @@ const testimonials = [
 ];
 
 const projects = [
-  {
-    name: "Fake News Analysis",
-    description:
-      "Web-based platform that allows users to analyze and visualize fake news articles using advanced machine learning algorithms.",
-    tags: [
-      {
-        name: "Python",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-    ],
-    image: fake,
-    source_code_link: "https://github.com/rainitesh2811/Fake-news-and-Deep-fake-",
-  },
-  {
-    name: "Task Manager",
-    description:
-      "A web application that allows users to manage their tasks efficiently, with features like task creation, editing, and deletion.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "MongoDb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Tailwind css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-    source_code_link: "https://github.com/rainitesh2811/Task-Manager",
-  },
   {
     name: "United Learning",
     description:
@@ -243,28 +192,45 @@ const projects = [
       },
     ],
     image: learning,
-    source_code_link: "https://github.com/Shreya2004Khanna/UNITED_LEARNING",
+    source_code_link: "https://unitedlearning.in/",
   },
   {
-    name: "Redstar Infosys",
+    name: "Digitalskill Sathi",
     description:
       "A web Application which allows user to buy and sell products online, with features like product listing, shopping cart, and payment integration.",
     tags: [
       {
-        name: "HTML 5 & Bootstrap",
+        name: "React JS",
         color: "blue-text-gradient",
       },
       {
-        name: "CSS 3",
+        name: "Tailwind CSS",
         color: "green-text-gradient",
       },
       {
-        name: "JavaScript",
+        name: "Supabase",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/rainitesh2811/Redstar",
+    image: digital,
+    source_code_link: "https://digitalskillsathi.com/",
+  },
+  {
+    name: "Fake News Analysis",
+    description:
+      "Web-based platform that allows users to analyze and visualize fake news articles using advanced machine learning algorithms.",
+    tags: [
+      {
+        name: "Python",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+    ],
+    image: fake,
+    source_code_link: "https://github.com/rainitesh2811/Fake-news-and-Deep-fake-",
   },
 ];
 

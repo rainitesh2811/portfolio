@@ -7,6 +7,7 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import data from "./data.png";
+import digital from "./digital.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -68,4 +69,5 @@ export {
   united,
   rozana,
   data,
+  digital,
 };
