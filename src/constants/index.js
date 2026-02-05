@@ -1,6 +1,7 @@
 import {
   backend,
   creator,
+  data,
   css,
   git,
   html,
@@ -21,6 +22,7 @@ import {
   united,
   satu,
   learning,
+  rozana,
   fake,
 } from "../assets";
 
@@ -51,6 +53,10 @@ const services = [
   {
     title: "Backend Developer",
     icon: backend,
+  },
+  {
+    title: "Data Analyst",
+    icon: data,
   },
 ];
 
@@ -100,10 +106,22 @@ const technologies = [
 const experiences = [
   {
     title: "Web Developer",
+    company_name: "Rozana Rural Commerce",
+    icon: rozana,
+    iconBg: "#383E56",
+    date: "Sep 2025 - Current",
+    points: [
+      "Developed and maintained complex database schemas using SQL and PostgreSQL to support rural commerce operations.",
+      "Created automated dashboards and analytical reports to provide data-driven insights for business stakeholders.",
+      "Optimized database queries to improve data retrieval speed and reporting efficiency.",
+    ],
+  },
+  {
+    title: "Web Developer",
     company_name: "United Learning",
     icon: united,
     iconBg: "#383E56",
-    date: "May 2025 - Current",
+    date: "May 2025 - July 2025",
     points: [
       "Developing and maintaining web applications using HTML5, CSS, JS and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
